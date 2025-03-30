@@ -7,3 +7,5 @@ _notes_
 4. Try to be ORIGINAL...rewriting needed
 5. follow a recognizable model for every page 
 	(format, writing, styles, attitude)
+6. Keep it simple
+   	(simple sentence, simple concepts, simple language)
