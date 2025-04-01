@@ -9,3 +9,4 @@ _notes_
 	(format, writing, styles, attitude)
 6. Keep it simple
    	(simple sentence, simple concepts, simple language)
+7. Try to write autarchic pages 
