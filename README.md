@@ -10,3 +10,4 @@ _notes_
 6. Keep it simple
    	(simple sentence, simple concepts, simple language)
 7. Try to write autarchic pages 
+8. Translation to all possible languages
