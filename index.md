@@ -8,8 +8,22 @@ written in **markdown**
 
 Set the goals it is important!
 
+# Procedure
++ Divide _arguments_ in smaller possible sections
 
-## Topics:
-addressing
+- introduce arguments on general terms
+- get deeper
+- summurize for wide view
+
+different pages for different perspective
+ use different types of pages:
+- descriptive
+- lists (protocols, layers, models)
+
+## Topics to deal together:
+- **Addressing**
  - MAC
  - IP
+- **Models**
+ - TCP/IP
+ - OSI
