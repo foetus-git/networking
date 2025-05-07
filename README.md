@@ -11,3 +11,6 @@ _notes_
    	(simple sentence, simple concepts, simple language)
 7. Try to write autarchic pages 
 8. Translation to all possible languages
+9. Treat arguments gradually from small to big
+	(first local net the remote net, following Models sorted)
+
