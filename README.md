@@ -13,3 +13,10 @@ _Intentions_:
 7. Translation to all possible languages
 8. Treat arguments gradually from small to big
 	(first local net then remote net, following Models sorted)
+
+---
+# Page formats
+_(as a personal exercise)_
+_*networking*_ is availble in different formats
+- Markdown
+- HTML
