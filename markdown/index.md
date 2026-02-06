@@ -11,12 +11,12 @@ Set the goals it is important!
 # Procedure
 + Divide _arguments_ in smaller possible sections
 
-- introduce arguments on general terms
-- get deeper
-- summurize for wide view
+1. introduce arguments on general terms
+2. get deeper
+3. summurize for wide view
 
 different pages for different perspective
- use different types of pages:
+ use different types of pages to show the argument from different points of views:
 - descriptive
 - lists (protocols, layers, models)
 

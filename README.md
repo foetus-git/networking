@@ -18,11 +18,12 @@ _Intentions_:
 - Start from the big picture to enter more and more in details
 - Structure learning in areas and sub-areas
 - Write introductions and Summaries for every areas
+- Start with definition
 ---
 # Page formats
 _(as a personal exercise)_
 *networking* is availble in different formats
-- Markdown
-- HTML _simple_
-- HTML w/ PHP
-- Python
+- [ ] Markdown
+- [ ] HTML _simple_
+- [ ] HTML w/ PHP
+- [ ] Python
