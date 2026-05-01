@@ -18,12 +18,17 @@ _Intentions_:
 # Content style
 - Start from the big picture to enter more and more in details
 - Structure learning in areas and sub-areas
+<<<<<<< HEAD
 - Write *Introductions* and *Summaries* for every areas
+=======
+- Write introductions and Summaries for every areas
+- Start with definition
+>>>>>>> 189dd608f35ed10020302fcca803ec4ce2a1b0a9
 ---
 # Page formats
 _(as a personal exercise)_
 *networking* is availble in different formats
-- Markdown
-- HTML _simple_
-- HTML w/ PHP
-- Python
+- [ ] Markdown
+- [ ] HTML _simple_
+- [ ] HTML w/ PHP
+- [ ] Python
